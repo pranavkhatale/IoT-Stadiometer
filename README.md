@@ -17,7 +17,7 @@ Instructions to use IoT Stadiometer :
 
    AP Band - `2.4 GHz`
 
-Note: Create only 1 Wi-Fi Hotspot with above credentials at a time.
+- Note: Create only 1 Wi-Fi Hotspot with above credentials at a time.
 
 - Turn on the Internet connection.
 
