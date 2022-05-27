@@ -28,3 +28,4 @@ Note: Create only 1 Wi-Fi Hotspot with above credentials at a time.
 
 - Now check result on ThingSpeak IoT Cloud Web Dashboard you opened earlier.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
