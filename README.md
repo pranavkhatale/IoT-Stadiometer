@@ -3,14 +3,14 @@
 Instructions to use IoT Stadiometer :
 
 - Set up a Portable Wi-Fi Hotspot Network with below credentials -
-- 
-SSID           - `IoTWiFi1`
 
-Password - `IoTWiFi1`
+   SSID           - `IoTWiFi1`
 
-Security    - `WPA2-Personal`
+   Password - `IoTWiFi1`
 
-AP Band   - `2.4 GHz`
+   Security    - `WPA2-Personal`
+
+   AP Band   - `2.4 GHz`
 
 Note: Create only 1 Wi-Fi Hotspot with above credentials at a time.
 
