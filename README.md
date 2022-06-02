@@ -3,7 +3,7 @@
 Documentation is under progress...
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Access the ThingSpeak IoT Cloud Dashboard [here](https://thingspeak.com/channels/1747732)
+- Access the [ThingSpeak IoT Cloud Dashboard here](https://thingspeak.com/channels/1747732)
 
 Instructions to use IoT Based Stadiometer :
 
