@@ -17,7 +17,7 @@ Instructions to use IoT Stadiometer :
 
    AP Band - `2.4 GHz`
    
-   <img src="https://github.com/pranavkhatale/IoT-Stadiometer/blob/main/Images/Setup_Wi-Fi_Network.jpg" width="500">
+   <img src="https://github.com/pranavkhatale/IoT-Stadiometer/blob/main/Images/Setup_Wi-Fi_Network.jpg" width="250">
    
 - Note: Create only 1 Wi-Fi Hotspot with above credentials at a time.
 
