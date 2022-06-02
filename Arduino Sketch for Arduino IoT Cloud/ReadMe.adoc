@@ -3,7 +3,7 @@
 :Revision: Version 1.0
 :License:  Public Domain
 
-= Project: IoT Based Stadiometer
+=== Project: IoT Based Stadiometer
 
 For complete documentation of this project visit: https://github.com/pranavkhatale/IoT-Stadiometer
 
