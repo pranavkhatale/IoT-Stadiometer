@@ -41,3 +41,4 @@ Instructions to use IoT Stadiometer :
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[View Arduino Sketch for ThingSpeak IoT Cloud on Arduino Web Editor](https://create.arduino.cc/editor/Pranavkhatale/3fb4a316-0afd-414b-b22a-b56f1425e41f/preview) or [here]()
