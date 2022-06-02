@@ -1,3 +1,13 @@
+/*
+  :Author:   Pranav Khatale
+  :Date:     01/05/2022
+  :Revision: Version 1.0
+  :License:  Public Domain
+
+  = Project: IoT Based Stadiometer
+    Developed at : Department of Electronics & Telecommunication Engineering, Government College of Engineering. Chandrapur (India)
+*/
+
 #include <ESP8266WiFi.h>
 int t = 0;
 int cloudtimer=11;
