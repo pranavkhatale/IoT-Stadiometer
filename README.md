@@ -37,5 +37,5 @@ Instructions to use IoT Stadiometer :
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[View IoT Stadiometer's Arduino Sketch for Arduino IoT Cloud on Arduino Web Editor](https://create.arduino.cc/editor/Pranavkhatale/82129a86-ade4-438b-a278-932813bbea89/preview) or can be accessed from above directory [Arduino Sketch for Arduino IoT Cloud](https://github.com/pranavkhatale/IoT-Stadiometer/tree/main/Arduino%20Sketch%20for%20Arduino%20IoT%20Cloud)
+[View IoT Stadiometer's Arduino Sketch for Arduino IoT Cloud on Arduino Web Editor](https://create.arduino.cc/editor/Pranavkhatale/82129a86-ade4-438b-a278-932813bbea89/preview) or can be accessed from above directory [here](https://github.com/pranavkhatale/IoT-Stadiometer/tree/main/Arduino%20Sketch%20for%20Arduino%20IoT%20Cloud)
 
