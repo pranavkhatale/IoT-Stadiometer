@@ -36,8 +36,10 @@ Instructions to use IoT Based Stadiometer :
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[View Arduino Sketch for Arduino IoT Cloud on Arduino Web Editor](https://create.arduino.cc/editor/Pranavkhatale/82129a86-ade4-438b-a278-932813bbea89/preview) or [in this repository here](https://github.com/pranavkhatale/IoT-Stadiometer/tree/main/Arduino%20Sketch%20for%20Arduino%20IoT%20Cloud)
+[View Arduino Sketch for ThingSpeak IoT Cloud on Arduino Web Editor](https://create.arduino.cc/editor/Pranavkhatale/3fb4a316-0afd-414b-b22a-b56f1425e41f/preview) or [in this repository here](https://github.com/pranavkhatale/IoT-Stadiometer/tree/main/Arduino%20Sketch%20for%20ThingSpeak%20IoT%20Cloud)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[View Arduino Sketch for ThingSpeak IoT Cloud on Arduino Web Editor](https://create.arduino.cc/editor/Pranavkhatale/3fb4a316-0afd-414b-b22a-b56f1425e41f/preview) or [in this repository here](https://github.com/pranavkhatale/IoT-Stadiometer/tree/main/Arduino%20Sketch%20for%20ThingSpeak%20IoT%20Cloud)
+This project can also be developed using Arduino IoT Cloud, [check this Arduino Sketch for Arduino IoT Cloud on Arduino Web Editor](https://create.arduino.cc/editor/Pranavkhatale/82129a86-ade4-438b-a278-932813bbea89/preview) or [in this repository here](https://github.com/pranavkhatale/IoT-Stadiometer/tree/main/Arduino%20Sketch%20for%20Arduino%20IoT%20Cloud)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
