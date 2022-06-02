@@ -8,9 +8,8 @@
 For complete documentation of this project visit: https://github.com/pranavkhatale/IoT-Stadiometer
 
 
-===
-=== BOM
-Add the bill of the materials you need for this project.
+
+=== Bill of Materials:
 
 |===
 | ID | Part name                   | Quantity
