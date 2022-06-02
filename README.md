@@ -4,7 +4,7 @@ Documentation is under progress...
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Instructions to use IoT Stadiometer :
+Instructions to use IoT Based Stadiometer :
 
 - Set up a Portable Wi-Fi Hotspot Network with below credentials -
 
