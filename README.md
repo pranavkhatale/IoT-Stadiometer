@@ -16,6 +16,8 @@ Instructions to use IoT Stadiometer :
    Security - `WPA2-Personal`
 
    AP Band - `2.4 GHz`
+   
+   ![Wi-Fi Hotspot Setup](https://github.com/pranavkhatale/IoT-Stadiometer/blob/main/Images/Setup_Wi-Fi_Network.jpg)
 
 - Note: Create only 1 Wi-Fi Hotspot with above credentials at a time.
 
